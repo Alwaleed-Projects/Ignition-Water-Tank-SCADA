@@ -44,6 +44,7 @@ It demonstrates core industrial automation concepts: **HOA logic**, **real-time 
 
 ## 📹 Demo Video
 
+📌 Click on the image below to watch the full demo video on YouTube.
 🎥 _Coming soon: Demo video showing the full system in action._
 
 ---
