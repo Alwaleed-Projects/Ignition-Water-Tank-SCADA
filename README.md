@@ -18,7 +18,6 @@ It demonstrates core industrial automation concepts: **HOA logic**, **real-time 
 
 - **Alarm Management System**  
   - Active & Unacknowledged alarms are displayed clearly.  
-  - Visual "Attention" panel appears when critical alarms are triggered.  
   - Acknowledge button allows operator to hide alerts while keeping the alarm state active in the banner.
 
 - **Trends and Historian Integration**  
@@ -32,7 +31,7 @@ It demonstrates core industrial automation concepts: **HOA logic**, **real-time 
 
 - **Analytical KPIs (Live)**  
   - **Water Level Avg/min**: Displays the live average water level per minute.  
-  - **Pump Power Avg/min**: Displays the live average pump runtime/consumption per minute.  
+  - **Pump Power Avg kW/min**: Displays the live average pump runtime/consumption per minute.  
   _Analytical KPIs provide real-time calculated averages for water level and pump performance, enabling trend analysis and supporting potential optimization decisions._
 
 - **Responsive SCADA UI**  
